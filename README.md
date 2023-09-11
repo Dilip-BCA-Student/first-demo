@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git repository.
-Author - Dilip Kumar
+  Author - Dilip Kumar
